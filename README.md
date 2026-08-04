@@ -300,8 +300,6 @@ This repository demonstrates practical knowledge of:
 ---
 
 ##  Author
-
-**Rajarshi Debbarma**
 B.Tech – Computer Science and Engineering
 **VIT Bhopal University**
 
